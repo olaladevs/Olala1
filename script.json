@@ -1,0 +1,74 @@
+[
+  {
+    "scene": "hook",
+    "order": 0,
+    "narration": "Di dalam kepala lu, ada pertarungan tiap hari. Dan cuma satu yang bisa menang... Suriyanto Perkedel!",
+    "duration_target": 4,
+    "visual_asset": "assets/video/hook_lightning_3d.mp4",
+    "sfx": ["assets/sfx/bass_drop.mp3", "assets/sfx/whoosh.mp3"]
+  },
+  {
+    "scene": "battle_1_catur",
+    "order": 1,
+    "narration": "Overthinking nyerang? Suriyanto balas pake catur, mikir 4 langkah ke depan, musuh checkmate di tempat!",
+    "duration_target": 5,
+    "visual_asset": "assets/video/battle_1_catur.mp4",
+    "sfx": ["assets/sfx/impact_hit.mp3", "assets/sfx/glass_shatter.mp3"]
+  },
+  {
+    "scene": "battle_2_komik_novel",
+    "order": 2,
+    "narration": "Penyesalan ngejar? Suriyanto nyiptain dunia baru lewat komik, musuh kesedot masuk cerita, gak berdaya!",
+    "duration_target": 5,
+    "visual_asset": "assets/video/battle_2_komik.mp4",
+    "sfx": ["assets/sfx/portal_whoosh.mp3", "assets/sfx/pen_scratch.mp3"]
+  },
+  {
+    "scene": "battle_3_lego",
+    "order": 3,
+    "narration": "Rasa cemas nyerang? Suriyanto build armor lego dalam sedetik, fokus ke detail kecil bikin cemas ambyar!",
+    "duration_target": 5,
+    "visual_asset": "assets/video/battle_3_lego.mp4",
+    "sfx": ["assets/sfx/lego_click.mp3", "assets/sfx/metal_clank.mp3"]
+  },
+  {
+    "scene": "battle_4_jalan_kaki",
+    "order": 4,
+    "narration": "Pikiran bikin stuck? Suriyanto lari, satu langkah, satu rantai putus, pikiran ikut lepas!",
+    "duration_target": 5,
+    "visual_asset": "assets/video/battle_4_lari.mp4",
+    "sfx": ["assets/sfx/footstep_heavy.mp3", "assets/sfx/chain_break.mp3"]
+  },
+  {
+    "scene": "battle_5_skill_baru",
+    "order": 5,
+    "narration": "Pikiran kosong nyerang? Suriyanto upgrade skill, satu keahlian baru, satu perisai cahaya nyala!",
+    "duration_target": 5,
+    "visual_asset": "assets/video/battle_5_skill.mp4",
+    "sfx": ["assets/sfx/electric_zap.mp3", "assets/sfx/level_up.mp3"]
+  },
+  {
+    "scene": "battle_6_masak",
+    "order": 6,
+    "narration": "Gelisah ngacak dapur pikiran? Suriyanto ayun wajan legendaris, satu tebasan, gelisah jadi asap!",
+    "duration_target": 5,
+    "visual_asset": "assets/video/battle_6_masak.mp4",
+    "sfx": ["assets/sfx/metal_swing.mp3", "assets/sfx/sizzle.mp3"]
+  },
+  {
+    "scene": "battle_7_jurnaling_final_boss",
+    "order": 7,
+    "narration": "Dan musuh terakhir, pikiran yang numpuk diam-diam. Suriyanto gak nyerang, dia nulis. Dan semua beban itu, hilang.",
+    "duration_target": 8,
+    "visual_asset": "assets/video/battle_7_final_boss.mp4",
+    "sfx": ["assets/sfx/orchestra_swell.mp3"]
+  },
+  {
+    "scene": "closing_cta",
+    "order": 8,
+    "narration": "7 musuh, 7 senjata. Suriyanto udah nunjukin caranya. Giliran lu. Komen nomor berapa yang udah lu jalanin.",
+    "duration_target": 5,
+    "visual_asset": "assets/video/closing_trophy.mp4",
+    "sfx": ["assets/sfx/music_cut_ending.mp3"]
+  }
+]
